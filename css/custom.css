@@ -7,3 +7,6 @@ footer > div > p > img {
 div.thumbnail > a > img.img-responsive {
   margin: 0 auto;
 }
+div.caption > h3 > a > img {
+  display: inline-block;
+}
