@@ -1,0 +1,9 @@
+footer.well{
+  margin-bottom:0;
+}
+footer > div > p > img {
+  width:32px;
+}
+div.thumbnail > a > img.img-responsive {
+  margin: 0 auto;
+}
