@@ -1,4 +1,4 @@
-# MalQR.github.io
+# MalQR
 
 **MalQR** is a collection of *maliciuos* QR Codes and Barcodes you can use to test the security of your scanners.
 
