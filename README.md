@@ -9,13 +9,13 @@ Currently it includes these codes standards:
 - [Aztec](https://en.wikipedia.org/wiki/Aztec_Code)
 - [Code 128](https://en.wikipedia.org/wiki/Code_128)
 
-This project is maintained by [**Shielder srl**](https://shielder.it "Shielder") from an idea of [smaury](https://twitter.com/smaury92 "smaury").
+This project is maintained by [**Shielder**](https://shielder.it "Shielder") from an idea of [smaury](https://twitter.com/smaury92 "smaury").
 
 ## Contributing
 If you have code standards, payloads type or payloads you think should be included do one of the followings:
-1. Send a pull request
-2. Create an issue with a description of what could be added
-3. Email malqr@shielder.it
+- Send a pull request
+- Create an issue with a description of what could be added
+- Email malqr@shielder.it
 
 *Note: Before contributing check whether the code standard can include malicious characters/strings.*
 
