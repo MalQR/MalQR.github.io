@@ -7,3 +7,12 @@ footer > div > p > img {
 div.thumbnail > a > img.img-responsive {
   margin: 0 auto;
 }
+div.caption > h4 {
+  white-space: nowrap;
+	text-overflow: ellipsis;
+	cursor: pointer;
+	overflow:hidden;
+}
+h3 {
+  margin-bottom: 1em;
+}
