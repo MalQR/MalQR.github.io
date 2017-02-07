@@ -1,7 +1,7 @@
 # MalQR
 
 ## About
-**MalQR** is a collection of *maliciuos* QR codes and barcodes you can use to test the security of your scanners. It gives you the ability to conduct such tests with *easiness*: you just need to have a smartphone, a tablet or a laptop with an internet connection and browse [MalQR.shielder.it](http://malqr.shielder.it "MalQR") to have a large collection of common payloads.
+**MalQR** is a collection of *malicious* QR codes and barcodes you can use to test the security of your scanners. It gives you the ability to conduct such tests with *easiness*: you just need to have a smartphone, a tablet or a laptop with an internet connection and browse [MalQR.shielder.it](http://malqr.shielder.it "MalQR") to have a large collection of common payloads.
 
 Currently it includes these codes standards:
 - [QR](https://en.wikipedia.org/wiki/QR_code)
